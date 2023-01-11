@@ -1,0 +1,2609 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "ko’paytirish, ayirish, konkatenasiya",
+                "qo’shish, ayirish, bo’lish, mod, konkatenasiya",
+                "qo’shish, ayirish, butun sonli bo’lish, qoldiqli bo’lish",
+                "ko’paytirish, ayirish, div, konkatenasiya"
+            ],
+            "correct_index": 2,
+            "index": "1",
+            "level": "1",
+            "question": "INT turi uchun qaysi amallar o’rinli?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "qo’shish, ayrish, ko’paytirish, bo’lish",
+                "qo’shish, ayrish, bo’lish, mod",
+                "ko’paytirish, ayrish, konkatenasiya",
+                "qo’shish, ayrish, div, mod"
+            ],
+            "correct_index": 0,
+            "index": "2",
+            "level": "1",
+            "question": "FLOAT  turi uchun qaysi amallar o’rinli",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Standart toifa",
+                "Birlashma",
+                "Matrisa",
+                "Yozuv"
+            ],
+            "correct_index": 3,
+            "index": "3",
+            "level": "1",
+            "question": "STRUCT kalit so’zi yordamida qanday tuzilma yaratiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Fayllarga murojaat",
+                "amallar ketma-ketligi",
+                "Obyektlar majmuasini ifodalash",
+                "To’plam elementlarini ifodalash"
+            ],
+            "correct_index": 1,
+            "index": "4",
+            "level": "1",
+            "question": "Algoritm nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "structure",
+                "struct",
+                "record",
+                "object"
+            ],
+            "correct_index": 1,
+            "index": "5",
+            "level": "1",
+            "question": "C++ tilida tuzilmani yaratish uchun ishlatiladigan kalit so’zi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "bu ma’lumot elementlari va ular orasidagi relyasion munosabatlar majmuasi",
+                "bu ma’lumot elementlari majmuasi",
+                "bu elementlar orasidagi munosabatlar amali",
+                "bu ma’lumot elementlari va ular orasidagi munosabatlar majmuasi"
+            ],
+            "correct_index": 3,
+            "index": "6",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasi nima",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "-1",
+                "0",
+                "1",
+                "66"
+            ],
+            "correct_index": 2,
+            "index": "7",
+            "level": "1",
+            "question": "Qaysi biri true kalit so’ziga mos qiymatini aniqlaydi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "0",
+                "1",
+                "-1",
+                "66"
+            ],
+            "correct_index": 0,
+            "index": "8",
+            "level": "1",
+            "question": "Qaysi biri false kalit so’ziga mos qiymatini aniqlaydi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Doimo bajariladi",
+                "yolg’on (false)",
+                "rost (true)",
+                "Hech qachon bajarilmaydi"
+            ],
+            "correct_index": 2,
+            "index": "9",
+            "level": "1",
+            "question": "Shartli operator if tanasi qachon bajariladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "positive",
+                "unsigned",
+                "extern",
+                "signed"
+            ],
+            "correct_index": 1,
+            "index": "10",
+            "level": "1",
+            "question": "Qaysi kalit so’z butun sonli o’zgaruvchi faqat musbat qiymatlarni qabul qilishini ko’rsatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "cout << X;",
+                "cin << X;",
+                "cout >> X;",
+                "cin >> X;"
+            ],
+            "correct_index": 3,
+            "index": "11",
+            "level": "1",
+            "question": "C++ tilida kiritish oqimi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "cin << X;",
+                "cout << X;",
+                "cout >> X;",
+                "cin >> X;"
+            ],
+            "correct_index": 1,
+            "index": "12",
+            "level": "1",
+            "question": "C++ tilida chiqarish oqimi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tartib raqami dasturchi aniqlaydi",
+                "19",
+                "18",
+                "tartib raqami cheksiz bo’ladi"
+            ],
+            "correct_index": 2,
+            "index": "13",
+            "level": "1",
+            "question": "Massivning oxirgi elemenning tartib raqami nimaga teng bo’ladi, agar massiv o’lchami 19 teng bo’lsa?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "yaratish, o’chirish, tanlash (ruxsat olish), yangilash.",
+                "yaratish, o’chirish, kengaytirish, yangilash.",
+                "yaratish, tanlash (ruxsat olish), kengaytirish, yangilash.",
+                "yaratish, o’chirish, kengaytirish, tanlash (ruxsat olish)."
+            ],
+            "correct_index": 0,
+            "index": "14",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasi ustida qanday to’rtta asosiy amal bajariladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_index": 0,
+            "index": "15",
+            "level": "1",
+            "question": "Ma’lumotlarni kompyuter xotirasda akslantirish nechta bosqichdan iborat?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq qilinadi.",
+                "kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.",
+                "konkret obyektning qayta ishlash, ularning xussusiyatlari va munosabatlarini tadqiq qilinadi.",
+                "dasturni yaratish jarayoni tadqiq qilinadi."
+            ],
+            "correct_index": 2,
+            "index": "16",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasi mazmunli (matematik) bosqichda ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq qilinadi.",
+                "kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi.",
+                "konkret obyektning qayta ishlash, ularning xussusiyatlari va munosabatlarini tadqiq qilinadi.",
+                "dasturni yaratish jarayoni tadqiq qilinadi."
+            ],
+            "correct_index": 0,
+            "index": "17",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasi mantiqiy bosqichda ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "dasturni yaratish jarayoni tadqiq qilinadi.",
+                "konkret obyektning qayta ishlash, ularning xussusiyatlari va munosabatlarini tadqiq qilinadi.",
+                "berilgan talabalar bo’yicha algoritmni ishlab chiqilishi tadqiq qilinadi.",
+                "kompyuter xotirasida ma’lumotlarni aks ettirilishi tadqiq qilinadi."
+            ],
+            "correct_index": 3,
+            "index": "18",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasi fizik bosqichda ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yozuv",
+                "Massiv",
+                "To’plam",
+                "Jadval"
+            ],
+            "correct_index": 2,
+            "index": "19",
+            "level": "1",
+            "question": "Bir xil tipdagi o’zaro  takrorlanmaydigan elementlardan iborat majmua",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "To’plam",
+                "Yozuv",
+                "Jadval",
+                "Massiv"
+            ],
+            "correct_index": 3,
+            "index": "20",
+            "level": "1",
+            "question": "Bir xil tipdagi elementlar majmuasi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yozuv",
+                "Massiv",
+                "To’plam",
+                "Jadval"
+            ],
+            "correct_index": 0,
+            "index": "21",
+            "level": "1",
+            "question": "Turli tipdagi ma’lumotlardan qanday tuzilma xosil qilinadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Massiv",
+                "Jadval",
+                "Yozuv",
+                "To’plam"
+            ],
+            "correct_index": 1,
+            "index": "22",
+            "level": "1",
+            "question": "Turli tipdagi ma’lumot maydonlardan iborat tartibli  tuzilmasi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "S = {D, R}",
+                "G = {V, E}",
+                "A = {D(1..n)}",
+                "BT = {K, L, R}"
+            ],
+            "correct_index": 0,
+            "index": "23",
+            "level": "1",
+            "question": "Ma’lumotlar tuzilmasini matematik qanday ifodalash mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "mantiqiy, butun, xakikiy, belgili, ko’rsatkichli tur",
+                "massiv, yozuv, rekursiv turlar, to’plam",
+                "jadval, stek, navbat, ruyxat, dek",
+                "daraxtlar, graflar"
+            ],
+            "correct_index": 0,
+            "index": "24",
+            "level": "2",
+            "question": "Oddiy sozlangan ma’lumotlar turlari (atomlar)ga kuyidagilar kiradi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "mantiqiy, butun, xakikiy, belgili, ko’rsatkichli tur",
+                "jadval, stek, navbat, ruyxat, dek",
+                "daraxtlar, graflar",
+                "massiv, yozuv, rekursiv turlar, to’plam"
+            ],
+            "correct_index": 3,
+            "index": "25",
+            "level": "2",
+            "question": "Sozlangan tuzilmaviy MT (molekulalar) ga kuyidagilar kiradi:",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Standart toifa",
+                "Yozuv",
+                "Matrisa",
+                "Birlashma"
+            ],
+            "correct_index": 3,
+            "index": "26",
+            "level": "2",
+            "question": "ENUM kalit so’zi yordamida qanday tuzilma yaratiladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "int x;",
+                "int &x;",
+                "int *x;",
+                "int []x;"
+            ],
+            "correct_index": 2,
+            "index": "27",
+            "level": "2",
+            "question": "C++ tilida ko’rsatkichni to’g’ri e’lon qilingan variantni ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "new",
+                "create",
+                "make",
+                "value"
+            ],
+            "correct_index": 0,
+            "index": "28",
+            "level": "2",
+            "question": "Xotirani dinamik ajratish uchun kalit so’zini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "clear",
+                "delete",
+                "free",
+                "cls"
+            ],
+            "correct_index": 1,
+            "index": "29",
+            "level": "2",
+            "question": "Dinamik xotirani bo’shatish uchun kalit so’zini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "mas(6);",
+                "mas[7];",
+                "mas(7);",
+                "mas[6];"
+            ],
+            "correct_index": 3,
+            "index": "30",
+            "level": "2",
+            "question": "<pre>int mas[10];</pre> ko’rinishida massiv e’lon qilinganda, uning yettinchi elementiga murojaat qanday amalga oshiriladi?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "double",
+                "char",
+                "float",
+                "int"
+            ],
+            "correct_index": 3,
+            "index": "31",
+            "level": "2",
+            "question": "<pre>int function(char x1, float x2, double x3)</pre> \nfunksiya qiymatining qaytarish turini ko’rsating",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "float to int",
+                "char to float",
+                "char to int",
+                "int to float"
+            ],
+            "correct_index": 0,
+            "index": "32",
+            "level": "2",
+            "question": "Turlarni keltirishda ma’lumotnng qisman yo’qotish bilan oshiriladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "<=",
+                "!=",
+                "=!",
+                ">="
+            ],
+            "correct_index": 2,
+            "index": "33",
+            "level": "2",
+            "question": "Taqqoslash amalning qaysi biri noto’g’ri berilgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "-",
+                "/",
+                "+",
+                "()"
+            ],
+            "correct_index": 3,
+            "index": "34",
+            "level": "2",
+            "question": "Yuqori prioritetga ega bo’lgan amalni ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "char : a",
+                "to(char, a)",
+                "a (char)",
+                "(char) a"
+            ],
+            "correct_index": 3,
+            "index": "35",
+            "level": "2",
+            "question": "Ma’lumotlarning turlarni keltirishda to’g’ri javobini toping",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "a = #3;",
+                "a = '3';",
+                "a = \"3\";",
+                "a = 3;"
+            ],
+            "correct_index": 2,
+            "index": "36",
+            "level": "2",
+            "question": "char a; o’zgaruvchisi e’lon qilingan. Keltirilgan ifodalarning qaysi biri noto’g’ri?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Bog’lamli va bog’lamsiz",
+                "Statik, yarimstatik va  dinamik",
+                "Chiziqli va chiziqsiz",
+                "Oddiy va murakkab"
+            ],
+            "correct_index": 0,
+            "index": "37",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari bog’lanishiga ko’ra qo’yidagilarga klassifikasiyalanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Bog’lamli va bog’lamsiz",
+                "Chiziqli va chiziqsiz",
+                "Statik, yarimstatik va  dinamik",
+                "Oddiy va murakkab"
+            ],
+            "correct_index": 2,
+            "index": "38",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari vaqt o’zgaruvchanligi yoki dastur bajarilishi jarayoniga ko’ra qo’yidagilarga klassifikasiyalanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Chiziqli va chiziqsiz",
+                "Statik, yarimstatik va  dinamik",
+                "Bog’lamli va bog’lamsiz",
+                "Oddiy va murakkab"
+            ],
+            "correct_index": 0,
+            "index": "39",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari tartibiga ko’ra qo’yidagilarga klassifikasiyalanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tanlash (ruxsat)",
+                "yo’qotish",
+                "yaratish",
+                "yangilash"
+            ],
+            "correct_index": 2,
+            "index": "40",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari uchun xotira ajratish amali qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tanlash (ruxsat)",
+                "yaratish",
+                "yo’qotish",
+                "yangilash"
+            ],
+            "correct_index": 2,
+            "index": "41",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari uchun ajratilgan xotirani o’chirish amali qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "yaratish",
+                "yo’qotish",
+                "yangilash",
+                "tanlash (ruxsat)"
+            ],
+            "correct_index": 2,
+            "index": "42",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalari qiymatini o’zgartirish amali qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "yo’qotish",
+                "yangilash",
+                "tanlash (ruxsat)",
+                "yaratish"
+            ],
+            "correct_index": 2,
+            "index": "43",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmalariga ruxsat olish amali qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "int A;",
+                "struct{int P1, P2; float P3;} A;",
+                "struct{int P1, P2; float P3;} A[100];",
+                "int A[100];"
+            ],
+            "correct_index": 3,
+            "index": "44",
+            "level": "2",
+            "question": "C++ tilida o’zgaruvchilarni e’lon qilinganlardan qaysi biri massiv tuzilmasini anglatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "int A[100];",
+                "struct{int P1, P2; float P3;} A;",
+                "struct{int P1, P2; float P3;} A[100];",
+                "int A;"
+            ],
+            "correct_index": 1,
+            "index": "45",
+            "level": "2",
+            "question": "C++ tilida o’zgaruvchilarni e’lon qilinganlardan qaysi biri yozuv tuzilmasini anglatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "struct{int P1, P2; float P3;} A[100];",
+                "int A[100];",
+                "struct{int P1, P2; float P3;} A;",
+                "int A;"
+            ],
+            "correct_index": 0,
+            "index": "46",
+            "level": "2",
+            "question": "C++ tilida o’zgaruvchilarni e’lon qilinganlardan qaysi biri jadval tuzilmasini anglatadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "3",
+                "1415",
+                "31415",
+                "51413"
+            ],
+            "correct_index": 2,
+            "index": "47",
+            "level": "2",
+            "question": "X=3.1415; xaqiqiy sonning mantissasi nimaga teng bo’ladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yarimstatik ma’lumotlar tuzilmasi",
+                "Dinamik ma’lumotlar tuzilmasi",
+                "Statik ma’lumotlar tuzilmasi",
+                "Rekursiv ma’lumotlar tuzilmasi"
+            ],
+            "correct_index": 2,
+            "index": "48",
+            "level": "2",
+            "question": "Dastur bajarilish jarayonida xotira xajmi bir xil bo’lgan oddiy va asosiy tuzilma to’plamlariga ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "8",
+                "6",
+                "14",
+                "1"
+            ],
+            "correct_index": 0,
+            "index": "49",
+            "level": "3",
+            "question": "12 & 10 ifodaning bitlar ustidagi amal natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "8",
+                "6",
+                "14",
+                "1"
+            ],
+            "correct_index": 2,
+            "index": "50",
+            "level": "3",
+            "question": "12 | 10 ifodaning bitlar ustidagi amal natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1",
+                "14",
+                "8",
+                "6"
+            ],
+            "correct_index": 3,
+            "index": "51",
+            "level": "3",
+            "question": "12 ^ 10 ifodaning bitlar ustidagi amal natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "0",
+                "3",
+                "21",
+                "1"
+            ],
+            "correct_index": 1,
+            "index": "52",
+            "level": "3",
+            "question": "!12 ifodaning bitlar ustidagi amal natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "13",
+                "-12",
+                "-13",
+                "12"
+            ],
+            "correct_index": 2,
+            "index": "53",
+            "level": "3",
+            "question": "~12  ifodaning bitlar ustidagi amal natijasini aniqlang",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "<pre>delete a;</pre>",
+                "<pre>delete a;</pre>",
+                "<pre>delete []a;</pre>",
+                "<pre>a = NULL;</pre>"
+            ],
+            "correct_index": 2,
+            "index": "54",
+            "level": "3",
+            "question": "<pre>char *a; a = new char[20];</pre> berilgan. Egallab turgan xotirani qanday to’g’ri o’chirish mumkin?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "1",
+                "0",
+                "NaN",
+                "ERROR"
+            ],
+            "correct_index": 0,
+            "index": "55",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:  !((1 || 0) && 0)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1",
+                "0",
+                "NaN",
+                "ERROR"
+            ],
+            "correct_index": 1,
+            "index": "56",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang: (!(1 && 1) || 0)",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "0",
+                "53",
+                "35",
+                "40"
+            ],
+            "correct_index": 3,
+            "index": "57",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:  cout << (5 << 3);",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "35",
+                "53",
+                "0",
+                "40"
+            ],
+            "correct_index": 2,
+            "index": "58",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:  cout << (5 >> 3);",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "6",
+                "10",
+                "0",
+                "250"
+            ],
+            "correct_index": 0,
+            "index": "59",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:   1000 / 100 % 7 * 2",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "10",
+                "1000",
+                "0",
+                "250"
+            ],
+            "correct_index": 1,
+            "index": "60",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:  1000 / (100 % 7) * 2",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "12 13",
+                "13 12",
+                "12 12",
+                "13 13"
+            ],
+            "correct_index": 1,
+            "index": "61",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:   \n<pre>float X = 12.54;\ncout &amp;lt;&amp;lt; ceil(X) &amp;lt;&amp;lt; \" \" &amp;lt;&amp;lt; floor(X);</pre>",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "6 6 12",
+                "6 6 11",
+                "6 5 11",
+                "5 6 11"
+            ],
+            "correct_index": 1,
+            "index": "62",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang:   <pre>x = y = 5;\nz= ++x + y++;\ncout &amp;lt;&amp;lt; x &amp;lt;&amp;lt; y &amp;lt;&amp;lt; z;</pre>",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "12",
+                "13,2",
+                "1,47",
+                "1"
+            ],
+            "correct_index": 0,
+            "index": "63",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang: cout <<22 / 5 * 3;",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1,47",
+                "12",
+                "13,2",
+                "1"
+            ],
+            "correct_index": 2,
+            "index": "64",
+            "level": "3",
+            "question": "Dastur fragmentining natijasini aniqlang: cout << 22.0 / 5.0 * 3;",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "dastur kodida PI ni 3.14 ga almashtirish qoidasi",
+                "yangi tur PI kiritadi",
+                "dastur kodida 3 satrni o’chirish",
+                "dastur kodida 3 va  14 satrlarini o’zaro almashtirish"
+            ],
+            "correct_index": 0,
+            "index": "65",
+            "level": "3",
+            "question": "Dastur fragment nimani anglatadi  #define PI 3.14",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "dastur tugatilishini aniqlaydi",
+                "dastur kodida CODni almashtirish qoidasi",
+                "dastur kodida COD so’zlarini o’chirish",
+                "COD yangi tur kiritadi"
+            ],
+            "correct_index": 3,
+            "index": "66",
+            "level": "3",
+            "question": "Dastur fragment nimani anglatadi  Typedef unsigned char COD;",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "compare();",
+                "stringcompare();",
+                "strcmp();",
+                "cmp();"
+            ],
+            "correct_index": 2,
+            "index": "67",
+            "level": "1",
+            "question": "Ikkita satrni o’zaro taqqoslash funksiyasini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "strcat ();",
+                "stringadd ();",
+                "append ();",
+                "insert ();"
+            ],
+            "correct_index": 0,
+            "index": "68",
+            "level": "1",
+            "question": "Birinchi satrning davomida ikkinchi satrni qo’shish funksiyasini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "LILO",
+                "FIFO",
+                "FILO",
+                "LIFO"
+            ],
+            "correct_index": 3,
+            "index": "69",
+            "level": "1",
+            "question": "Stek tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "FIFO",
+                "LIFO",
+                "FILO",
+                "LILO"
+            ],
+            "correct_index": 0,
+            "index": "70",
+            "level": "1",
+            "question": "Navbat tuzilmasida qanday hizmat ko’rsatish turi qullaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Top",
+                "Pop",
+                "Push",
+                "Empty"
+            ],
+            "correct_index": 2,
+            "index": "71",
+            "level": "1",
+            "question": "Stekga yangi element qushish funksiyasi qanday belgilanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Pop",
+                "Push",
+                "Top",
+                "Empty"
+            ],
+            "correct_index": 0,
+            "index": "72",
+            "level": "1",
+            "question": "Stekdan yuqori elementini o’chirish funksiyasi qanday belgilanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Push",
+                "Pop",
+                "Top",
+                "Empty"
+            ],
+            "correct_index": 2,
+            "index": "73",
+            "level": "1",
+            "question": "Stekdan yuqori elementini o’qitib olish funksiyasi qanday belgilanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yozuv, Jadval",
+                "Stek, Massiv",
+                "Graf. Vektor",
+                "Stek, Dek, Navbat"
+            ],
+            "correct_index": 3,
+            "index": "74",
+            "level": "2",
+            "question": "Yarimstatik ma’lumotlar tuzilmasiga nimalar kiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ro’yxat elementlari turli tipda bo’lishi mumkin",
+                "Ular orasida sezilarli farq yo’q",
+                "ro’yxatni uzunligiga chegara belgilanmaydi",
+                "Ro’yxat elementlari butun tipda bo’lishi kerak"
+            ],
+            "correct_index": 2,
+            "index": "75",
+            "level": "2",
+            "question": "Ro’yxatni massivdan ustunligini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Statik ma’lumotlar tuzilmasi",
+                "Yarimstatik ma’lumotlar tuzilmasi",
+                "Dinamik ma’lumotlar tuzilmasi",
+                "Rekursiv ma’lumotlar tuzilmasi"
+            ],
+            "correct_index": 1,
+            "index": "76",
+            "level": "2",
+            "question": "Dastur bajarilish jarayonida xotira xajmi statik belgilanadi va deskriptor-ko’rsatkich orqali foydalanilgan tuzilma to’plamlariga ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "deque <int> S;",
+                "queue <int> S;",
+                "stack <int> S;",
+                "list<int> S;"
+            ],
+            "correct_index": 2,
+            "index": "77",
+            "level": "2",
+            "question": "C++ tilida standart andozalar kutubxonasi yordamida stekni qanday e’lon qilish mumkin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "list<int> S;",
+                "stack <int> S;",
+                "deque <int> S;",
+                "queue <int> S;"
+            ],
+            "correct_index": 3,
+            "index": "78",
+            "level": "2",
+            "question": "C++ tilida standart andozalar kutubxonasi yordamida navbatni qanday e’lon qilish mumkin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "queue <int> S;",
+                "deque <int> S;",
+                "stack <int> S;",
+                "list<int> S;"
+            ],
+            "correct_index": 1,
+            "index": "79",
+            "level": "2",
+            "question": "C++ tilida standart andozalar kutubxonasi yordamida dekni qanday e’lon qilish mumkin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "getline(cin, x, 100);",
+                "gets(x, 100);",
+                "cin.getline(x, 100);",
+                "getch(x, 100);"
+            ],
+            "correct_index": 2,
+            "index": "80",
+            "level": "3",
+            "question": "Funksiyalarning qaysi biri kiritish oqimidan 100 belgini x satrga o’qitadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning bir tomonidan amalga oshiriladi",
+                "shunday tuzilmaki, u yelementlar qo’shilishi bilan kengayib boradi va elementlarni faqatgina bir tomondan qabul qiladi",
+                "chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning ikki tomonlama amalga oshiriladi",
+                "chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning faqat o’rtasiga amalga oshiriladi"
+            ],
+            "correct_index": 0,
+            "index": "81",
+            "level": "3",
+            "question": "Stek bu ...",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning bir tomonidan amalga oshiriladi",
+                "shunday tuzilmaki, u yelementlar qo’shilishi bilan kengayib boradi va elementlarni faqatgina bir tomondan qabul qiladi",
+                "chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning ikki tomonlama amalga oshiriladi",
+                "chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning faqat o’rtasiga amalga oshiriladi"
+            ],
+            "correct_index": 1,
+            "index": "82",
+            "level": "3",
+            "question": "Navbat bu...",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning bir tomonidan amalga oshiriladi",
+                "shunday tuzilmaki, u yelementlar qo’shilishi bilan kengayib boradi va elementlarni faqatgina bir tomondan qabul qiladi",
+                "chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning ikki tomonlama amalga oshiriladi",
+                "chiziqli ma’lumotlar tuzilmasi bo’lib, ma’lumotlarni kiritish va chiqarish uning faqat o’rtasiga amalga oshiriladi"
+            ],
+            "correct_index": 2,
+            "index": "83",
+            "level": "3",
+            "question": "Dek bu ...",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "NULL",
+                "NaN",
+                "ERROR",
+                "EMP"
+            ],
+            "correct_index": 0,
+            "index": "84",
+            "level": "1",
+            "question": "Qanday kalit so’zi yordamida nol havola (bo’sh manzil) belgilanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_index": 0,
+            "index": "85",
+            "level": "1",
+            "question": "Bir bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct_index": 1,
+            "index": "86",
+            "level": "1",
+            "question": "Ikki bog’lamli ro’yxatda nechta ko’rsatkichdan foydalaniladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Dinamik ma’lumotlar tuzilmasi",
+                "Statik ma’lumotlar tuzilmasi",
+                "Yarimstatik ma’lumotlar tuzilmasi",
+                "Rekursiv ma’lumotlar tuzilmasi"
+            ],
+            "correct_index": 0,
+            "index": "87",
+            "level": "2",
+            "question": "Dastur bajarilish jarayonida xotira xajmi aniqlangan yoki ularning soni ma’lum bo’lishi tuzilma to’plamlariga ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "stack <int> S;",
+                "queue <int> S;",
+                "deque <int> S;",
+                "list<int> S;"
+            ],
+            "correct_index": 3,
+            "index": "88",
+            "level": "2",
+            "question": "C++ tilida standart andozalar kutubxonasi yordamida ro’yxatni qanday e’lon qilish mumkin",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ro’yxatning boshini ko’rsatish uchun",
+                "Oldingi elementni ko’rsatish uchun",
+                "Keyingi elementni ko’rsatish uchun",
+                "Ro’yxatning oxirini ko’rsatish uchun"
+            ],
+            "correct_index": 2,
+            "index": "89",
+            "level": "2",
+            "question": "Bir bog’lamli ro’yxatlarda Next ko’rsatkichi nima uchun ishlatiladi  struct List{int Data; List *Next;};",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ro’yxatning oxirini ko’rsatish uchun",
+                "Faqat oldingi va undan keyingi elementlarini ko’rsatish uchun",
+                "Ro’yxatning boshini ko’rsatish uchun",
+                "Keyingi va oldingi elementlarini ko’rsatish uchun"
+            ],
+            "correct_index": 3,
+            "index": "90",
+            "level": "2",
+            "question": "Ikki bog’lamli ro’yxatlarda Next va Prev ko’rsatkichlari nima uchun ishlatiladi struct List{int Data; List *Next, *Prev;};",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ro’yxat bitta elementga qisqaradi",
+                "ro’yxatda teshik hosil bo’ladi",
+                "ro’yxat uziladi",
+                "chiziqli ro’yxat hosil bo’ladi"
+            ],
+            "correct_index": 0,
+            "index": "91",
+            "level": "1",
+            "question": "Xalqasimon ro’yxatdan element o’chirilganda …",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "chapga",
+                "ikkala",
+                "o’nga",
+                "ro’yxat oxiriga"
+            ],
+            "correct_index": 1,
+            "index": "92",
+            "level": "2",
+            "question": "Halqasimon ikki yo’nalishli ro’yxatda qaysi yo’nalishlar bo’yicha xarakatlanish mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ro’yxat",
+                "Daraxt",
+                "Graf",
+                "Lug’at"
+            ],
+            "correct_index": 3,
+            "index": "93",
+            "level": "3",
+            "question": "Ro’yxat elementlarning ro’yxatlar bo’lishi mumkin tuzilma qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tuzilma",
+                "Algoritm",
+                "Dastur",
+                "Rekursiya"
+            ],
+            "correct_index": 3,
+            "index": "94",
+            "level": "1",
+            "question": "… - obyektni mazkur obyektga murojaat qilish orqali aniqlashdir.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Statik ma’lumotlar tuzilmasi",
+                "Dinamik ma’lumotlar tuzilmasi",
+                "Yarimstatik ma’lumotlar tuzilmasi",
+                "Rekursiv ma’lumotlar tuzilmasi"
+            ],
+            "correct_index": 3,
+            "index": "95",
+            "level": "2",
+            "question": "Ma’lumotlar tuzilmasi, tashkil qiluvchi elementlari qaysining o’xshash elementlar bo’lsa, u xoda ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "B.Mandelbrot",
+                "A.Chyorch",
+                "A.Landis",
+                "V.Velson"
+            ],
+            "correct_index": 1,
+            "index": "96",
+            "level": "2",
+            "question": "Rekursiv funksiyalar apparati kim tomondan kashf qilingan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Rekursiv triada",
+                "Rekursiv algoritm",
+                "Rekursiv munosabat",
+                "Rekursiv obyekt"
+            ],
+            "correct_index": 0,
+            "index": "97",
+            "level": "2",
+            "question": "Rekursiya masalasini xal qiluvchi bosqichlari qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "aniqlash, chaqiruv, o’zgartirish",
+                "parametrizasiya, rekursiya bazasi va  dekompozisiya",
+                "oson, o’rta, qiyin",
+                "qo’shish, ayirish, ko’paytirish"
+            ],
+            "correct_index": 1,
+            "index": "98",
+            "level": "2",
+            "question": "Rekursiv triada qaysi bosqichlardan iborat",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "chaqiruv",
+                "rekursiya bazasi",
+                "dekompozisiya",
+                "parametrizasiya"
+            ],
+            "correct_index": 3,
+            "index": "99",
+            "level": "2",
+            "question": "Rekursiv triadaning qaysi bosqichida masala shartini tasniflash va uni hal etish uchun parametrlar aniqlanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "rekursiya bazasi",
+                "dekompozisiya",
+                "parametrizasiya",
+                "chaqiruv"
+            ],
+            "correct_index": 0,
+            "index": "100",
+            "level": "2",
+            "question": "Rekursiv triadaning qaysi bosqichida masala yechimi aniq bo’lgan trivial holat aniqlanadi, ya’ni bu holatda funksiyani  o’ziga murojaat qilishi talab etilmaydi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "rekursiya bazasi",
+                "dekompozisiya",
+                "parametrizasiya",
+                "chaqiruv"
+            ],
+            "correct_index": 1,
+            "index": "101",
+            "level": "2",
+            "question": "Rekursiv triadaning qaysi bosqichida umumiy holatni nisbatan ancha oddiy bo’lgan o’zgargan parametrli qism masalalar orqali ifodalaydi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "oraliq",
+                "ildiz",
+                "so’ngi",
+                "ildiz bo’lmagan"
+            ],
+            "correct_index": 1,
+            "index": "102",
+            "level": "1",
+            "question": "Daraxtsimon tuzilmadagi shunday  elementga murojaat yo’qki, u... tugun xisoblanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "terminal",
+                "oraliq",
+                "ildiz",
+                "barg"
+            ],
+            "correct_index": 3,
+            "index": "103",
+            "level": "1",
+            "question": "Daraxtsimon tuzilmada boshqa elementlarga murojaat bo’lmasa, u... tugun xisoblanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "agar uning chap va o’ng qism daraxtlari balandligi farqi 1tadan ko’p bo’lmasa",
+                "agar uning chap va o’ng qism daraxtlari kengligi farqlanmasa",
+                "agar uning chap va o’ng qism daraxtlari barglari teng sonli bo’lsa",
+                "Agar uning oraliq tugunlari juft qiymatli bo’lsa"
+            ],
+            "correct_index": 0,
+            "index": "104",
+            "level": "1",
+            "question": "Qachon daraxt muvozanatlangan xisoblanadi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Graf. Vektor",
+                "Stek, Dek, Navbat",
+                "Yozuv, Jadval",
+                "Daraxt, graf"
+            ],
+            "correct_index": 3,
+            "index": "105",
+            "level": "1",
+            "question": "Chiziqsiz ma’lumotlar tuzilmasiga nimalar kiradi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "barglar soni",
+                "tugunlar soni",
+                "oraliq elementlari soni",
+                "daraxt bosqichlari soni"
+            ],
+            "correct_index": 3,
+            "index": "106",
+            "level": "1",
+            "question": "Daraxt balandligi – bu ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tugunlar soni",
+                "Daraxtga tegishli tugunning munosabatlar sonining minimal qiymati",
+                "Daraxt bosqichlari soni",
+                "Daraxtga tegishli tugunning munosabatlar sonining maksimal qiymati"
+            ],
+            "correct_index": 3,
+            "index": "107",
+            "level": "1",
+            "question": "Daraxt darajasi – bu ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "2-3 TREE",
+                "BINARY TREE",
+                "Red Black Tree",
+                "HEAP TREE"
+            ],
+            "correct_index": 3,
+            "index": "108",
+            "level": "1",
+            "question": "Minimal balandlikka ega daraxt",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ABC",
+                "ACB",
+                "BAC",
+                "CAB"
+            ],
+            "correct_index": 2,
+            "index": "109",
+            "level": "1",
+            "question": "Binar daraxt uchun to’g’ri (yuqoridan pastga) ko’ruv amalining natijasini ko’rsating\n    B\n   / \\\n A    C",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "ABC",
+                "BAC",
+                "ACB",
+                "CAB"
+            ],
+            "correct_index": 2,
+            "index": "110",
+            "level": "1",
+            "question": "Binar daraxt uchun teskari (pastdan yuqoriga) ko’ruv amalining natijasini ko’rsating\n    B\n   / \\\n A    C",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "BAC",
+                "ACB",
+                "ABC",
+                "CAB"
+            ],
+            "correct_index": 2,
+            "index": "111",
+            "level": "1",
+            "question": "Binar daraxt uchun simmetrik (chapdan o’nga) ko’ruv amalining natijasini ko’rsating\n    B\n   / \\\n A    C",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Ternar",
+                "Binar",
+                "Tetradli",
+                "Ko’pqatlamli"
+            ],
+            "correct_index": 1,
+            "index": "112",
+            "level": "1",
+            "question": "Daraxt qanday nomlanadi, agar uning chiqish darajasi ikkidan oshmasa.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Uchta (to’g’ri, teskari, simmetrik)",
+                "Ikkita (eniga va tubiga)",
+                "Ikkita (eniga va uzunasiga)",
+                "Uchta (to’g’ri, teskari, akslanuvchi)"
+            ],
+            "correct_index": 0,
+            "index": "113",
+            "level": "1",
+            "question": "Qidiruv daraxtda nechta va qaysilar ko’ruv amallarini ifodalaydi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "bog’langan chiziqsiz ro’yxatlar",
+                "massivlar",
+                "jadvallar",
+                "bog’langan chiziqli ro’yxatlar"
+            ],
+            "correct_index": 0,
+            "index": "114",
+            "level": "2",
+            "question": "Kompyuter xotirasida binar daraxtni qanday ko’rinishda tasvirlash qulay",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "tugunlar soni",
+                "daraxt bosqichlari soni",
+                "oraliq elementlari soni",
+                "barglar soni"
+            ],
+            "correct_index": 0,
+            "index": "115",
+            "level": "2",
+            "question": "Daraxt uzunligi – bu ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Lug’at",
+                "Graf",
+                "Daraxt",
+                "Ro’yxat"
+            ],
+            "correct_index": 2,
+            "index": "116",
+            "level": "2",
+            "question": "Chiziqsiz iyerarxik bog’langan ma’lumotlar tuzilmasi – bu …",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Daraxt balandligi",
+                "Daraxt uzunligi",
+                "Ko’ruv amali",
+                "Daraxt kengligi"
+            ],
+            "correct_index": 2,
+            "index": "117",
+            "level": "2",
+            "question": "Daraxt tugunlar ketma-ketligini tartiblangan holda chiqarish",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ikkilik",
+                "to’liq",
+                "minimal balandlikka ega daraxt",
+                "muvozanatlangan"
+            ],
+            "correct_index": 1,
+            "index": "118",
+            "level": "2",
+            "question": "Agar daraxtni tashkil etuvchi element (tugun)lardan faqat ikkita tugun  bilan bog’langan bo’lsa, u holda bunday binar daraxt ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "O’rtacha  muvozanatlangan",
+                "yo’q",
+                "Xar ikkalasi xam bo’lishi mumkin",
+                "xa"
+            ],
+            "correct_index": 3,
+            "index": "119",
+            "level": "3",
+            "question": "56,34,60,23,40,65 sonlaridan xosil bo’lgan binar daraxt muvozanatlanganmi yoki yo’qmi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "8",
+                "7",
+                "9",
+                "10"
+            ],
+            "correct_index": 1,
+            "index": "120",
+            "level": "3",
+            "question": "Agar elementlar soni 100ta bo’lsa, u holda minimal balandga ega daraxt balandligi nechiga teng bo’ladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1024",
+                "1023",
+                "2047",
+                "2048"
+            ],
+            "correct_index": 1,
+            "index": "121",
+            "level": "3",
+            "question": "Agar minimal balandga ega daraxt balandligi 10ga teng bo’lsa, u holda maksimal elementlar soni nechiga teng bo’ladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "2",
+                "1",
+                "3",
+                "4"
+            ],
+            "correct_index": 3,
+            "index": "122",
+            "level": "3",
+            "question": "Agar elementlar soni 10ta bo’lsa, u holda minimal balandga ega daraxt balandligi nechiga teng bo’ladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "2",
+                "4",
+                "5",
+                "8"
+            ],
+            "correct_index": 1,
+            "index": "123",
+            "level": "3",
+            "question": "10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxtda nechta oraliq tugun mavjud",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "5",
+                "2",
+                "3",
+                "8"
+            ],
+            "correct_index": 2,
+            "index": "124",
+            "level": "3",
+            "question": "10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxtda nechta barg mavjud",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "4",
+                "3",
+                "5",
+                "8"
+            ],
+            "correct_index": 2,
+            "index": "125",
+            "level": "3",
+            "question": "10,7, 12, 2, 5, 3, 11, 14 sonlaridan hosil qilingan binar daraxt balandligi nechaga teng",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_index": 0,
+            "index": "126",
+            "level": "3",
+            "question": "35, 27, 5,78, 29, 43 sonlaridan hosil qilingan binar daraxtda nechta barg mavjud",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "4",
+                "3",
+                "2",
+                "6"
+            ],
+            "correct_index": 2,
+            "index": "127",
+            "level": "3",
+            "question": "35, 27, 5,78, 29, 43 sonlaridan hosil qilingan binar daraxtda nechta oraliq tugun mavjud",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "1",
+                "4",
+                "2",
+                "3"
+            ],
+            "correct_index": 3,
+            "index": "128",
+            "level": "3",
+            "question": "35, 27, 5,78, 29, 43 sonlaridan hosil qilingan binar daraxt balandligi nechaga teng",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ro’yxat",
+                "Lug’at",
+                "Daraxt",
+                "Graf"
+            ],
+            "correct_index": 3,
+            "index": "129",
+            "level": "1",
+            "question": "Murrakab obyektlarning xussusiyati va munosabatlarini aks ettiruvchi chiziqsiz ko’p bog’lamli dinamik tuzilmasi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "BT = {K, L, R}",
+                "S = {D, R}",
+                "A = {D(1..n)}",
+                "G = {V, E}"
+            ],
+            "correct_index": 3,
+            "index": "130",
+            "level": "1",
+            "question": "Graf tuzilmasini matematik qanday ifodalash mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yo’naltirilgan",
+                "Yo’naltirilmagan",
+                "Aralash",
+                "Vaznga ega"
+            ],
+            "correct_index": 1,
+            "index": "131",
+            "level": "1",
+            "question": "Agar grafning munosabatlarini tasvirlashda qirralardan foydalanilsa, u holda graf ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yo’naltirilmagan",
+                "Yo’naltirilgan",
+                "Aralash",
+                "Vaznga ega"
+            ],
+            "correct_index": 1,
+            "index": "132",
+            "level": "1",
+            "question": "Agar grafning munosabatlarini tasvirlashda yoylardan foydalanilsa, u holda graf ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Aralash",
+                "Yo’naltirilmagan",
+                "Yo’naltirilgan",
+                "Vaznga ega"
+            ],
+            "correct_index": 0,
+            "index": "133",
+            "level": "1",
+            "question": "Agar grafning munosabatlarini tasvirlashda yoy va qirralardan foydalanilsa, u holda graf ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Aralash",
+                "Yo’naltirilmagan",
+                "Yo’naltirilgan",
+                "Vaznga ega"
+            ],
+            "correct_index": 3,
+            "index": "134",
+            "level": "1",
+            "question": "Agar grafning munosabatlariga og’irlik qiymati belgilansa, u holda graf ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Uchlar soniga",
+                "Qirralar soniga",
+                "Qirra va uchlar soniga",
+                "Ilmoqlar soniga"
+            ],
+            "correct_index": 0,
+            "index": "135",
+            "level": "1",
+            "question": "Grafning tartibi nimaga teng",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Qirra va uchlar soniga",
+                "Uchlar soniga",
+                "Qirralar soniga",
+                "Ilmoqlar soniga"
+            ],
+            "correct_index": 2,
+            "index": "136",
+            "level": "1",
+            "question": "Grafning o’lchami nimaga teng",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "undan chiquvchi tugunlar soni xisoblanadi",
+                "undan chiquvchi qirralar soni xisoblanadi",
+                "undan chiquvchi qirralar o’rta arifmetik soni xisoblanadi",
+                "undan chiquvchi qirralar o’rta geometrik soni xisoblanadi"
+            ],
+            "correct_index": 1,
+            "index": "137",
+            "level": "1",
+            "question": "Grafning tugun darajasi bu",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Uchta (to’g’ri, teskari, akslanuvchi)",
+                "Ikkita (eniga va uzunasiga)",
+                "Ikkita (eniga va tubiga)",
+                "Uchta (to’g’ri, teskari, simmetrik)"
+            ],
+            "correct_index": 2,
+            "index": "138",
+            "level": "1",
+            "question": "Grafda nechta va qaysilar ko’ruv amallarini ifodalaydi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "dek",
+                "navbat",
+                "ro’yxat",
+                "stek"
+            ],
+            "correct_index": 3,
+            "index": "139",
+            "level": "1",
+            "question": "Qanday konteyner yordamida grafda tubiga qarab ko’rishda qo’llaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "stek",
+                "navbat",
+                "ro’yxat",
+                "dek"
+            ],
+            "correct_index": 1,
+            "index": "140",
+            "level": "1",
+            "question": "Qanday konteyner yordamida grafda eniga qarab ko’rishda qo’llaniladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "D.Kenig, 1936",
+                "D.Ritchi, 1976",
+                "A.Lovli, 1966",
+                "Ch.Bebidj, 1946"
+            ],
+            "correct_index": 0,
+            "index": "141",
+            "level": "2",
+            "question": "Kim tomondan va qaysi yilda graf tushunchasini kiritgan",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Daraja",
+                "Halqa",
+                "Yo’l",
+                "Ilmoq"
+            ],
+            "correct_index": 3,
+            "index": "142",
+            "level": "2",
+            "question": "Agar grafda boshi va oxiri bitta tugunda tutashadigan qirra mavjud bo’lsa, unga ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yo’l",
+                "Halqa",
+                "Ilmoq",
+                "Daraja"
+            ],
+            "correct_index": 0,
+            "index": "143",
+            "level": "2",
+            "question": "Bironta tugundan boshqa bir tugungacha bo’lgan yonma-yon joylashgan tugunlar ketma-ketligidir bu - ... deyiladi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Yo’l",
+                "Halqa",
+                "Ilmoq",
+                "Daraja"
+            ],
+            "correct_index": 1,
+            "index": "144",
+            "level": "2",
+            "question": "... – bu boshi va oxiri tutashuvchi tugundan iborat yo’l.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "To’yingan",
+                "Siyrak",
+                "Ikkilamchi",
+                "To’liq"
+            ],
+            "correct_index": 0,
+            "index": "145",
+            "level": "2",
+            "question": "Agar grafning to’yinganligi D darajasi 0.5dan katta bo’lsa, u holda graf ... hsoblanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ikkilamchi",
+                "To’yingan",
+                "Siyrak",
+                "To’liq"
+            ],
+            "correct_index": 2,
+            "index": "146",
+            "level": "2",
+            "question": "Agar grafning to’yinganligi D darajasi 0.5dan kichik bo’lsa, u holda graf ... hsoblanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Ikkilamchi",
+                "Siyrak",
+                "To’yingan",
+                "To’liq"
+            ],
+            "correct_index": 3,
+            "index": "147",
+            "level": "2",
+            "question": "Agar grafning to’yinganligi D darajasi 1ga teng bo’lsa, u holda graf ... hsoblanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Qo’shma matrisa",
+                "Munosabat matrisasi",
+                "Qo’shnilik ro’yxati",
+                "Qirralar ro’yxati"
+            ],
+            "correct_index": 0,
+            "index": "148",
+            "level": "2",
+            "question": "G grafni aks etishda n o’lchamli A kvadrat matrisasi qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Qo’shma matrisa",
+                "Munosabat matrisasi",
+                "Qo’shnilik ro’yxati",
+                "Qirralar ro’yxati"
+            ],
+            "correct_index": 1,
+            "index": "149",
+            "level": "2",
+            "question": "G grafni aks etishda n-ga m o’lchamli B matrisasi qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Munosabat matrisasi",
+                "Qo’shma matrisa",
+                "Qo’shnilik ro’yxati",
+                "Qirralar ro’yxati"
+            ],
+            "correct_index": 2,
+            "index": "150",
+            "level": "2",
+            "question": "G grafni aks etishda A[n] massiv bo’lib, massivning xar bir elementi tugun bilan qo’shni tugunlar ro’yxati qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Qo’shnilik ro’yxati",
+                "Qirralar ro’yxati",
+                "Qo’shma matrisa",
+                "Munosabat matrisasi"
+            ],
+            "correct_index": 1,
+            "index": "151",
+            "level": "2",
+            "question": "G grafni aks etishda qo’shni tugunlar qirralaridan iborat chiziqli ro’yxati qanday nomlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Siklom",
+                "Obxodom",
+                "Putem",
+                "Stepenyu"
+            ],
+            "correct_index": 1,
+            "index": "152",
+            "level": "2",
+            "question": "Berilgan tugundan boshlab barcha tugunlarni ko’rib chiqish prosedurasi qanday nomlanadi.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "D = 2m / (n(n-1))",
+                "D = n*(n-1) / 2m",
+                "D = n/m",
+                "D = m/n"
+            ],
+            "correct_index": 0,
+            "index": "153",
+            "level": "3",
+            "question": "Grafning D to’yinganlik darajasi nimaga teng",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "m = n²",
+                "m = n(n-1)/2",
+                "m = n!",
+                "m = √n"
+            ],
+            "correct_index": 1,
+            "index": "154",
+            "level": "3",
+            "question": "To’liq grafning qirralar soni qanday formula orqali hisoblanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "|0 1 0 1|\n|1 0 1 0|\n|0 1 0 1|\n|1 0 1 0|",
+                "|0 1 1 1|\n|0 0 1 1|\n|0 0 0 1|\n|0 0 0 0|",
+                "|0 0 0 0|\n|1 0 0 0|\n|1 1 0 0|\n|1 1 1 0|",
+                "|1 1 0 1|\n|1 0 0 0|\n|1 1 0 1|\n|1 0 1 0|"
+            ],
+            "correct_index": 0,
+            "index": "155",
+            "level": "3",
+            "question": "Yo’naltirilmagan grafning ko’shma matrisasi to’g’ri berilgan javobini tanlang",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "7",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_index": 2,
+            "index": "156",
+            "level": "3",
+            "question": "\n|0 0 1 1 0|\n|0 0 1 0 1|\n|1 1 0 1 1|\n|1 0 1 0 1|\n|0 1 1 1 0|\n  yo’naltirilmagan grafning ko’shma matrisasi berilgan. Grafning tartibi nechiga teng",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "7",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_index": 0,
+            "index": "157",
+            "level": "3",
+            "question": "\n|0 0 1 1 0|\n|0 0 1 0 1|\n|1 1 0 1 1|\n|1 0 1 0 1|\n|0 1 1 1 0|\n  yo’naltirilmagan grafning ko’shma matrisasi berilgan. Grafning o’lchami nechiga teng",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "0,7",
+                "0,3",
+                "1",
+                "0"
+            ],
+            "correct_index": 0,
+            "index": "158",
+            "level": "3",
+            "question": "\n|0 0 1 1 0|\n|0 0 1 0 1|\n|1 1 0 1 1|\n|1 0 1 0 1|\n|0 1 1 1 0|\n  yo’naltirilmagan grafning ko’shma matrisasi berilgan. Grafning to’yinganlik D qiymati nechiga teng",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "5",
+                "4",
+                "7",
+                "6"
+            ],
+            "correct_index": 1,
+            "index": "159",
+            "level": "3",
+            "question": "\n|0 1 1 0|\n|1 0 1 1|\n|1 1 0 0|\n|0 1 0 0|\n  yo’naltirilmagan grafning ko’shma matrisasi berilgan. Grafning tartibi nechiga teng",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "5",
+                "7",
+                "4",
+                "6"
+            ],
+            "correct_index": 2,
+            "index": "160",
+            "level": "3",
+            "question": "\n|0 1 1 0|\n|1 0 1 1|\n|1 1 0 0|\n|0 1 0 0|\n  yo’naltirilmagan grafning ko’shma matrisasi berilgan. Grafning o’lchami nechiga teng",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "0,66",
+                "0,33",
+                "1",
+                "0,5"
+            ],
+            "correct_index": 0,
+            "index": "161",
+            "level": "3",
+            "question": "\n|0 1 1 0|\n|1 0 1 1|\n|1 1 0 0|\n|0 1 0 0|\n  yo’naltirilmagan grafning ko’shma matrisasi berilgan. Grafning to’yinganlik D qiymati nechiga teng?",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "massivda ma’lumot yo’qligini aniqlash",
+                "berilgan argumentga mos keluvchi ma’lumotlarni massiv ichidan topish",
+                "ma’lumotlar yordamida argumentni topish",
+                "ma’lumot yordamida eng kichik elementni topish"
+            ],
+            "correct_index": 1,
+            "index": "162",
+            "level": "1",
+            "question": "Qidiruvni vazifasi nimadan iborat",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Uslubiyot",
+                "Saralash",
+                "Algoritmlash",
+                "Qidiruv"
+            ],
+            "correct_index": 3,
+            "index": "163",
+            "level": "1",
+            "question": "Berilgan argumentga mos keluvchi ma’lumotlarni massiv ichidan topish",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "7",
+                "5",
+                "6",
+                "4"
+            ],
+            "correct_index": 3,
+            "index": "164",
+            "level": "1",
+            "question": "Jadvalning tuzilmasiga qarab nechta qidiruv usullari mavjud",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "elementlar ketma-ket jadval o’rtasidan boshlab ko’rib chiqiladi",
+                "har bir element ketma-ket ko’rib chiqiladi",
+                "elementlarni ko’rib chiqish ketma-ket ravishda boshidan oxirigacha va aksincha, 2 ta element tashlab qaraladi",
+                "binar daraxt barcha tugunlari ko’rib chiqiladi"
+            ],
+            "correct_index": 1,
+            "index": "165",
+            "level": "2",
+            "question": "Chiziqli qidiruv g’oyasi nimadan iborat",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Topilgan element o’zidan keyingi turgan element bilan almashtirila di.",
+                "Topilgan element o’zidan oldinda turgan element bilan almashtirila di.",
+                "Topilgan element tuzilmaning 1-elementi bilan almashtirila di.",
+                "Topilgan element tuzilmaning oxirgi elementi bilan almashtirila di."
+            ],
+            "correct_index": 1,
+            "index": "166",
+            "level": "2",
+            "question": "Transpozisiya usulining ma’nosi nima?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "topilgan element ro’yxat oxiriga joylashtiriladi",
+                "topilgan element ro’yxat boshiga joylashtiriladi",
+                "topilgan element o’zidan keyingi element bilan o’rin almashtiriladi",
+                "qo’shni elementlar o’rni almashtiriladi"
+            ],
+            "correct_index": 1,
+            "index": "167",
+            "level": "2",
+            "question": "O’rinlashtirish usulini ma’nosi  nimadan iborat",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "agar ikkita ma’lumot qiymatlari farqi kalitga teng bo’lsa",
+                "agar ikkita ma’lumot qiymatlari yig’indisi kalitga teng bo’lsa",
+                "agar jadvalda bunday kalitli element mavjud bo’lmasa",
+                "agar jadvalda kaliti mazkur kalitga teng ma’lumot yagona bo’lsa"
+            ],
+            "correct_index": 3,
+            "index": "168",
+            "level": "2",
+            "question": "Noyob kalit nima",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "O(1)",
+                "O(log2(N))",
+                "O(N)",
+                "O(√N)"
+            ],
+            "correct_index": 2,
+            "index": "169",
+            "level": "2",
+            "question": "Katta O notasiyada belgilangan chiziqli qidiruv samaradorligini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "O(N)",
+                "O(log2(N))",
+                "O(1)",
+                "O(√N)"
+            ],
+            "correct_index": 1,
+            "index": "170",
+            "level": "2",
+            "question": "Katta O notasiyada belgilangan binar qidiruv samaradorligini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "O(log2(N))",
+                "O(N)",
+                "O(1)",
+                "O(√N)"
+            ],
+            "correct_index": 3,
+            "index": "171",
+            "level": "2",
+            "question": "Katta O notasiyada belgilangan indeksli-ketma-ket qidiruv samaradorligini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "O(√N)",
+                "O(N)",
+                "O(log2(N))",
+                "O(1)"
+            ],
+            "correct_index": 3,
+            "index": "172",
+            "level": "2",
+            "question": "Katta O notasiyada belgilangan xeshlash va rexeshlash qidiruv samaradorligini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Logarifmik",
+                "Chiziqli",
+                "Konstantali",
+                "Eksponensial"
+            ],
+            "correct_index": 1,
+            "index": "173",
+            "level": "2",
+            "question": "Ketma-ket qidiruv algoritm tartibi qanday",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Chiziqli",
+                "Logarifmik",
+                "Konstantali",
+                "Eksponensial"
+            ],
+            "correct_index": 1,
+            "index": "174",
+            "level": "2",
+            "question": "Binar qidiruv algoritm tartibi qanday",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Eksponensial",
+                "Chiziqli",
+                "Logarifmik",
+                "Konstantali"
+            ],
+            "correct_index": 3,
+            "index": "175",
+            "level": "2",
+            "question": "Xeshlashtirish algoritm tartibi qanday",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "massiv va ro’yxatda",
+                "dekda",
+                "daraxtda",
+                "navbatda"
+            ],
+            "correct_index": 0,
+            "index": "176",
+            "level": "3",
+            "question": "Chiziqli qidiruv qachon samarali",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Indekslar jadvalidan gurux topiladi, va unda ko’rsatilgan mos chegaralarda chiziqli algoritm oshiriladi",
+                "Ma’lumotlar butun jadval bo’yicha operativ xotirada kichik adresdan boshlab, to katta adresgacha ketma-ket qarab chiqiladi",
+                "Berilgan massiv o’rtasidagi element olinadi, ya’ni  m = (L + R) / 2, va u qidiruv argumenti bilan taqqoslanadi. Topilmasa chegaralar mos ravishda o’zgartiriladi",
+                "Funksiya yerdamida xesh-jadval to’ldiriladi va undan qidiriladi"
+            ],
+            "correct_index": 1,
+            "index": "177",
+            "level": "3",
+            "question": "Ketma-ket yoki chiziqli qidiruv – bu …",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Berilgan massiv o’rtasidagi element olinadi, ya’ni  m = (L + R) / 2, va u qidiruv argumenti bilan taqqoslanadi. Topilmasa chegaralar mos ravishda o’zgartiriladi",
+                "Ma’lumotlar butun jadval bo’yicha operativ xotirada kichik adresdan boshlab, to katta adresgacha ketma-ket qarab chiqiladi",
+                "Indekslar jadvalidan gurux topiladi, va unda ko’rsatilgan mos chegaralarda chiziqli algoritm oshiriladi",
+                "Funksiya yerdamida xesh-jadval to’ldiriladi va undan qidiriladi"
+            ],
+            "correct_index": 2,
+            "index": "178",
+            "level": "3",
+            "question": "Indeksli-ketma-ket qidiruv – bu …",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Indekslar jadvalidan gurux topiladi, va unda ko’rsatilgan mos chegaralarda chiziqli algoritm oshiriladi",
+                "Ma’lumotlar butun jadval bo’yicha operativ xotirada kichik adresdan boshlab, to katta adresgacha ketma-ket qarab chiqiladi",
+                "Berilgan massiv o’rtasidagi element olinadi, ya’ni  m = (L + R) / 2, va u qidiruv argumenti bilan taqqoslanadi. Topilmasa chegaralar mos ravishda o’zgartiriladi",
+                "Funksiya yerdamida xesh-jadval to’ldiriladi va undan qidiriladi"
+            ],
+            "correct_index": 2,
+            "index": "179",
+            "level": "3",
+            "question": "Binar qidiruv – bu …",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Ma’lumotlar butun jadval bo’yicha operativ xotirada kichik adresdan boshlab, to katta adresgacha ketma-ket qarab chiqiladi",
+                "Funksiya yerdamida xesh-jadval to’ldiriladi va undan qidiriladi",
+                "Berilgan massiv o’rtasidagi element olinadi, ya’ni  m = (L + R) / 2, va u qidiruv argumenti bilan taqqoslanadi. Topilmasa chegaralar mos ravishda o’zgartiriladi",
+                "Indekslar jadvalidan gurux topiladi, va unda ko’rsatilgan mos chegaralarda chiziqli algoritm oshiriladi"
+            ],
+            "correct_index": 1,
+            "index": "180",
+            "level": "3",
+            "question": "Xeshlash  – bu …",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "ichki saralash",
+                "to’liq saralash",
+                "qo’shish orqali saralash",
+                "adreslar jadvalini saralash"
+            ],
+            "correct_index": 0,
+            "index": "181",
+            "level": "1",
+            "question": "Operativ xotirada bajariladigan saralash qanday ataladi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "yaxshilangan",
+                "dinamik",
+                "logarifmik",
+                "qat’iy"
+            ],
+            "correct_index": 1,
+            "index": "182",
+            "level": "1",
+            "question": "Saralash usullari orasidan noto’g’risini toping.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "logarifmik",
+                "binar",
+                "yaxshilangan",
+                "qat’iy"
+            ],
+            "correct_index": 3,
+            "index": "183",
+            "level": "1",
+            "question": "Saralashning qaysi usullari, Θ(N²)  kalitlarni taqqoslash tartibiga ega?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Algoritmlash",
+                "Qidiruv",
+                "Saralash",
+                "Uslubiyot"
+            ],
+            "correct_index": 2,
+            "index": "184",
+            "level": "1",
+            "question": "Berilgan to’plam elementlarini biror bir tartibda joylashtirish jarayoni",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Turg’un (stable)",
+                "Murakkab (difficult)",
+                "Oddiy (typical)",
+                "Turg’un emas (unstable)"
+            ],
+            "correct_index": 0,
+            "index": "185",
+            "level": "2",
+            "question": "Saralash usuli … deyiladi, agar saralash jarayonida bir hil kalitli elementlar nisbiy joylashuvi o’zgarmasa",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Obyektlar hayolan tayyor a(1),...,a(i-1)  va boshlang’ich ketma-ketliklarga bo’linadi. Har bir qadamda (i=2 dan boshlab) boshlang’ich ketma-ketlikdan i-chi element ajratib olinib tayyor ketma-ketlikning kerakli joyiga qo’shiladi.",
+                "Berilgan obyektlar ichidan eng kichik kalitga ega element tanlanadi.Ushbu element boshlang’ich ketma-ketlikdagi birinchi element  bilan o’rin almashadi. Undan keyin ushbu jarayon qolgan elementlarda amalga oshiriladi.",
+                "n - 1 marta massivda quyidan yuqoriga qarab yurib kalitlar jufti-jufti bilan taqqoslanadi. Agar pastki kalit qiymati yuqoridagi jufti kalitidan kichik bo’lsa, u holda ular o’rni almashtiriladi.",
+                "Boshlang’ich ketma-ketlikning har r o’rinda joylashgan elementlari guruhlanib, har bir guruh alohida qo’shish usuli orqali saralanadi."
+            ],
+            "correct_index": 0,
+            "index": "186",
+            "level": "2",
+            "question": "Qo’yish orqali saralash g’oyasi.",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Berilgan obyektlar ichidan eng kichik kalitga ega element tanlanadi.Ushbu element boshlang’ich ketma-ketlikdagi birinchi element  bilan o’rin almashadi. Undan keyin ushbu jarayon qolgan elementlarda amalga oshiriladi.",
+                "n - 1 marta massivda quyidan yuqoriga qarab yurib kalitlar jufti-jufti bilan taqqoslanadi. Agar pastki kalit qiymati yuqoridagi jufti kalitidan kichik bo’lsa, u holda ular o’rni almashtiriladi.",
+                "Boshlang’ich ketma-ketlikning har r o’rinda joylashgan elementlari guruhlanib, har bir guruh alohida qo’shish usuli orqali saralanadi.",
+                "Obyektlar hayolan tayyor a(1),...,a(i-1)  va boshlang’ich ketma-ketliklarga bo’linadi. Har bir qadamda (i=2 dan boshlab) boshlang’ich ketma-ketlikdan i-chi element ajratib olinib tayyor ketma-ketlikning kerakli joyiga qo’shiladi."
+            ],
+            "correct_index": 0,
+            "index": "187",
+            "level": "2",
+            "question": "Tanlash orqali saralash g’oyasi.",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Obyektlar hayolan tayyor a(1),...,a(i-1)  va boshlang’ich ketma-ketliklarga bo’linadi. Har bir qadamda (i=2 dan boshlab) boshlang’ich ketma-ketlikdan i-chi element ajratib olinib tayyor ketma-ketlikning kerakli joyiga qo’shiladi.",
+                "n - 1 marta massivda quyidan yuqoriga qarab yurib kalitlar jufti-jufti bilan taqqoslanadi. Agar pastki kalit qiymati yuqoridagi jufti kalitidan kichik bo’lsa, u holda ular o’rni almashtiriladi.",
+                "Berilgan obyektlar ichidan eng kichik kalitga ega element tanlanadi.Ushbu element boshlang’ich ketma-ketlikdagi birinchi element  bilan o’rin almashadi. Undan keyin ushbu jarayon qolgan elementlarda amalga oshiriladi.",
+                "Boshlang’ich ketma-ketlikning har r o’rinda joylashgan elementlari guruhlanib, har bir guruh alohida qo’shish usuli orqali saralanadi."
+            ],
+            "correct_index": 1,
+            "index": "188",
+            "level": "2",
+            "question": "Almashtirish orqali saralash g’oyasi.",
+            "type": "long"
+        },
+        {
+            "answers": [
+                "Differensial",
+                "Chiziqli",
+                "Kvadratik",
+                "Logarifmik"
+            ],
+            "correct_index": 3,
+            "index": "189",
+            "level": "2",
+            "question": "QuickSort usulining algoritm tartibini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Differensial",
+                "Kubik",
+                "Logarifmik",
+                "Kvadratik"
+            ],
+            "correct_index": 3,
+            "index": "190",
+            "level": "2",
+            "question": "Qat’iy usullarning algoritmlar tartibini ko’rsating",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "dastur yozishga ketgan vaqt",
+                "taqqoslashlar va  almashtirishlar soni",
+                "ishlatilayotgan identifikatorlar soni va turlari",
+                "amallar soni"
+            ],
+            "correct_index": 1,
+            "index": "191",
+            "level": "3",
+            "question": "Saralash samaradorligini qaysi mezonlar yordamida aniqlanadi",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tez saralash;",
+                "to’g’ridan-to’g’ri qo’shish; to’g’ridan-to’g’ri tanlash; to’g’ridan-to’g’ri almashtirish.",
+                "Shella saralashi;",
+                "Birlashtirish saralashi.",
+                "Birlashtirish saralashi; to’g’ridan-to’g’ri tanlash; to’g’ridan-to’g’ri almashtirish.",
+                "Tez saralash, to’g’ridan-to’g’ri tanlash; to’g’ridan-to’g’ri almashtirish."
+            ],
+            "correct_index": 1,
+            "index": "192",
+            "level": "3",
+            "question": "Qanday saralash usullari qat’iy usullar deb belgilangan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Tez saralash;",
+                "Shella saralashi;",
+                "Birlashtirish saralashi.",
+                "to’g’ridan-to’g’ri qo’shish; to’g’ridan-to’g’ri tanlash; to’g’ridan-to’g’ri almashtirish.",
+                "Birlashtirish saralashi; to’g’ridan-to’g’ri tanlash; to’g’ridan-to’g’ri almashtirish.",
+                "Tez saralash, to’g’ridan-to’g’ri tanlash; to’g’ridan-to’g’ri almashtirish."
+            ],
+            "correct_index": 0,
+            "index": "193",
+            "level": "3",
+            "question": "Qanday saralash usullari yaxshilangan usullar deb belgilangan?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Katalog",
+                "Fayl",
+                "Xotira",
+                "Ma’lumot tashuvchi"
+            ],
+            "correct_index": 1,
+            "index": "194",
+            "level": "1",
+            "question": "Bu ismga ega obyekt bo’lib, shu ism orqali ichidagi ma’lumotlar bilan ishlovchi obyektdir.",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Atributi",
+                "Kengaytmasi",
+                "Ismi",
+                "Yo’li"
+            ],
+            "correct_index": 2,
+            "index": "195",
+            "level": "1",
+            "question": "Faylni aniqlovchi bir nechta ketma-ket bilgilar faylning ...",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "Kengaytma",
+                "Ism",
+                "Atribut",
+                "Yo’l"
+            ],
+            "correct_index": 0,
+            "index": "196",
+            "level": "1",
+            "question": "Faylning ma’lumotlar tarkibini va dasturiy ta’minotini aniqlovchi ko’rsatkich",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "output_file",
+                "ifstream",
+                "input_file",
+                "ofstream"
+            ],
+            "correct_index": 3,
+            "index": "197",
+            "level": "2",
+            "question": "Qanday klass yordamida faylga yozish jarayoni boshqariladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ifstream",
+                "ofstream",
+                "input_file",
+                "output_file"
+            ],
+            "correct_index": 0,
+            "index": "198",
+            "level": "2",
+            "question": "Qanday klass yordamida fayldan o’qish jarayoni boshqariladi?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "ko’rsatkichlar yordamida",
+                "Yangi yaratilgan nostandart tipdagi o’zgaruvchi orqali",
+                "Faylni o’zi bevosita ekranda ochilib amal bajariladi",
+                "Dasturda fayl oobyektlariga murojaat yo’q"
+            ],
+            "correct_index": 0,
+            "index": "199",
+            "level": "2",
+            "question": "Dasturda fayl ma’lumotlari ustida amal bajarishda unga qanday murojaat qilish mumkin?",
+            "type": "short"
+        },
+        {
+            "answers": [
+                "streamfyle",
+                "fylestream",
+                "fstream",
+                "iostream",
+                ""
+            ],
+            "correct_index": 2,
+            "index": "200",
+            "level": "3",
+            "question": "C++ tilining qaysi kutubxonasida fayl kiritish/chiqarish oqimlarini amalga oshiriladi?",
+            "type": "short"
+        }
+    ]
+}
