@@ -72,7 +72,7 @@ async def new_quiz_file_handler(msg: types.Message, state: FSMContext):
                 comment=data['comment']
             )
             await msg.answer(
-                text=f"Test tuzil;di. Raqami #n{q_id}\nJami {k} ta savol qo'shildi!"
+                text=f"Test tuzildi. Test raqami #n{q_id}\nJami {k} ta savol qo'shildi!"
             )
             await msg.answer(
                 text=f"<b>{data['name']}</b>\n"

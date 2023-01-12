@@ -196,7 +196,7 @@ async def finish_quiz(group):
         return f"<a href='tg://user?id={user_id}'>{u['full_name']}</a>"
     
     def to_time(seconds: float):
-        minutes = seconds // 60
+        minutes = int(seconds // 60)
         seconds = seconds - (minutes)*60
         res = ""
         if minutes:
