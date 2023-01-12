@@ -220,8 +220,10 @@ async def finish_quiz(group):
         times = [[key, value['correct'], value['time']] for key, value in users.items()]
         times = sorted(sorted(times, key=lambda x: x[2]), key=lambda x: x[1], reverse=True)
         txt = ""
-        for user, i in zip(times[:3], ["🥇", "🥈", "🥉"]):
-            txt += f"{i} " + user_url(user[0], users.get(f"{user[0]}")) + " - " + f"<b>{user[1]}</b> (" + to_time(user[2]) + ")\n"
+        labels = {1:"🥇", 2:"🥈", 3:"🥉"}
+        for user, i in zip(times, range(1, len(times)+1)):
+            label = labels.get(i, f"{i}.")
+            txt += f"{label} " + user_url(user[0], users.get(f"{user[0]}")) + " - " + f"<b>{user[1]}</b> (" + to_time(user[2]) + ")\n"
         data = await dp.storage.get_data(chat=group)
         c = data['i']
         quiz_name = data['quiz']['name']
