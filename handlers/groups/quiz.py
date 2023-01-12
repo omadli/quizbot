@@ -72,8 +72,8 @@ async def start_quiz(msg: types.Message):
     data['msg'] = m.message_id
     await dp.storage.set_data(chat=msg.chat.id, data=data)
     await dp.storage.set_state(chat=msg.chat.id, state="quiz_count")
-    
-
+ 
+   
 @dp.callback_query_handler(AdminFilter(), Regexp(r"count:((all)|([0-9]+))"), chat_type=[types.ChatType.SUPERGROUP, types.ChatType.GROUP], state='*')
 async def get_quiz_count(call: types.CallbackQuery):
     state = await dp.storage.get_state(chat=call.message.chat.id)
