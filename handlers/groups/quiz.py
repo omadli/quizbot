@@ -209,6 +209,9 @@ async def finish_quiz(group):
     
     
     users: dict = await dp.storage.get_data(chat=group, user='users')
+    data = await dp.storage.get_data(chat=group)
+    c = data['i']
+    quiz_name = data['quiz']['name']
     if not users or not len(users):
         await dp.bot.send_message(
             chat_id=group,
@@ -221,18 +224,20 @@ async def finish_quiz(group):
         times = sorted(sorted(times, key=lambda x: x[2]), key=lambda x: x[1], reverse=True)
         txt = ""
         labels = {1:"🥇", 2:"🥈", 3:"🥉"}
-        for user, i in zip(times, range(1, len(times)+1)):
+        l = len(times)
+        if l > 100:
+            l = 100
+        for user, i in zip(times, range(1, l+1)):
             label = labels.get(i, f"{i}.")
             txt += f"{label} " + user_url(user[0], users.get(f"{user[0]}")) + " - " + f"<b>{user[1]}</b> (" + to_time(user[2]) + ")\n"
-        data = await dp.storage.get_data(chat=group)
-        c = data['i']
-        quiz_name = data['quiz']['name']
+        
         await dp.bot.send_message(
             chat_id=group,
             text=f"🏁 <b>“{quiz_name}”</b> testi yakunlandi!\n\n"
                 f"<i>{c} ta savolga javob berildi</i>\n\n"
                 f"{txt}\n"
                 f"🏆 Gʻoliblarni tabriklaymiz!"
+            
                 
         )
     await dp.storage.finish(chat=group)

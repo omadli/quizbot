@@ -89,7 +89,7 @@ class Database:
         return await self.execute(sql, fetchval=True)
 
     async def update_user(self, full_name, username, user_id):
-        sql = "UPDATE Users(full_name, username) VALUES ($1, $2) WHERE user_id=$3"
+        sql = "UPDATE Users SET full_name=$1, username=$2 WHERE user_id=$3"
         return await self.execute(sql, full_name, username, user_id, execute=True)
 
     async def delete_users(self):
